@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: /starter/media/IMG_8007.JPG
+splash: /media/IMG_8007.JPG
 title: Hola Mundo
 ---
 
