@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
+splash: /starter/media/IMG_8007.JPG
 title: Hola Mundo
 ---
 
